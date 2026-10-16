@@ -1,0 +1,18 @@
+{
+  "ハムログ": {
+    "calls": 0,
+    "date": 1,
+    "time": 2,
+    "hiss": 3,
+    "myrs": 4,
+    "freq": 5,
+    "mode": 6,
+    "code": 7,
+    "glid": 8,
+    "qsl": 9,
+    "name": 10,
+    "qth": 11,
+    "rmk1": 12,
+    "rmk2": 13
+  }
+}
